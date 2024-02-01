@@ -1,0 +1,3 @@
+#GO-TEST-DEMO
+
+go test -v ./...
